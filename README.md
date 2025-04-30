@@ -1,10 +1,10 @@
-# CLAD
+# SWORD
 
 A Clustered BLockchain-based Authentication and Data Sharing Scheme for Resource Constrained Networks
 
 ## Architecture Overview
 
-CLAD is implemented as a set of custom chaincode modules on Hyperledger Fabric, featuring:
+SWORD is implemented as a set of custom chaincode modules on Hyperledger Fabric, featuring:
 
 - Offline cluster support using private data collections (TAL - Temporary Authentication Ledger)
 - Geographical clustering through separate Fabric channels
@@ -44,8 +44,8 @@ CLAD is implemented as a set of custom chaincode modules on Hyperledger Fabric, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SPaDeS-Lab/clad.git
-   cd clad
+   git clone https://github.com/SPaDeS-Lab/SWORD.git
+   cd SWORD
    ```
 
 2. Install Prerequisites:
